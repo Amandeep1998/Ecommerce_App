@@ -1,0 +1,63 @@
+[
+    {   
+        "id": 1,
+        "label": "Crypto T-shirt",
+        "price": 500,
+        "img": "/assets/crypto.png"
+    },
+    {
+        "id": 2,
+        "label": "MI Mobile",
+        "price": 20000,
+        "img": "/assets/mi.jpeg"
+
+    },
+    {
+        "id": 3,
+        "label": "Marketing T-shirt",
+        "price": 400,
+        "img": "/assets/marketing.png"
+    },
+    {
+        "id": 4,
+        "label": "Oppo Mobile",
+        "price": 18000,
+        "img": "/assets/oppo.jpeg"
+
+    },
+    {
+        "id": 5,
+        "label": "Coder T-shirt",
+        "price": 450 ,
+        "img": "/assets/html.png"
+
+    },
+    {
+        "id": 6,
+        "label": "Funny T-shirt",
+        "price": 300 ,
+        "img": "/assets/funny.png"
+
+    },
+    {
+        "id": 7,
+        "label": "Mechanic T-shirt",
+        "price": 200 ,
+        "img": "/assets/mechanic.png"
+
+    },
+    {
+        "id": 8,
+        "label": "Electrician T-shirt",
+        "price": 400,
+        "img": "/assets/electrician.png"
+
+    },
+    {
+        "id": 9,
+        "label": "Vivo Mobile",
+        "price": 15000,
+        "img": "/assets/vivo.jpeg"
+
+    }
+]
